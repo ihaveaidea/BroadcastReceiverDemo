@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\androidproject\BroadcastReceiverDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="34c43a8366de10f48bd051c6313ddcea9538cb3c">
+        <dex dex="F:\androidproject\BroadcastReceiverDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_cbad6acd34ef055dd8c9dfb1b6217adcdf76f092.jar" />
+    </item>
+    <item
+        jar="C:\Users\LV\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="F:\androidproject\BroadcastReceiverDemo\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_5c8e60a14c7bf90d248e6c418eaf42b58b1dadc0.jar" />
+    </item>
+    <item
+        jar="F:\androidproject\BroadcastReceiverDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="9ae02b7db5842bf827fb0454bcc7e2e8f1601205">
+        <dex dex="F:\androidproject\BroadcastReceiverDemo\app\build\intermediates\pre-dexed\debug\instant-run_4ba56b8832f6d7df315752feb4347b9728f64b44.jar" />
+    </item>
+
+</items>
